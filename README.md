@@ -152,9 +152,9 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 * [All-in-One](http://all-io.net)
 * [AllTheInternet](http://www.alltheinternet.com)
-* [Dogpile](http://www.dogpile.com)
+* [Dogpile](https://www.dogpile.com)
 * [Etools](http://www.etools.ch)
-* [Excite](http://msxml.excite.com)
+* [Excite](https://msxml.excite.com)
 * [FaganFinder](http://www.faganfinder.com/engines)
 * [Glearch](http://www.glearch.com)
 * [Goofram](http://www.goofram.com)
@@ -219,7 +219,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [PDFSR](http://pdfsr.com)
 * [PPTHunter](http://www.ppthunter.com)
 * [RECAP](http://archive.recapthelaw.org)
-* [Scribd](http://www.scribd.com)
+* [Scribd](https://www.scribd.com)
 * [SlideShare](http://www.slideshare.net)
 * [Slideworld](http://www.slideworld.com)
 * [soPDF.com](http://www.sopdf.com)
@@ -379,7 +379,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Custom Facebook Tools](https://inteltechniques.com/osint/menu.facebook.html)
 * [ExtractFace](http://le-tools.com/ExtractFace.html#download)
 * [Fanpage Karma](http://www.fanpagekarma.com)
-* [Facebook Search](http://search.fb.com/)
+* [Facebook Search](https://search.fb.com/)
 * [Facebook Search Tool](http://netbootcamp.org/facebook.html)
 * [Facebook Search Tools](https://inteltechniques.com/intel/OSINT/facebook.html)
 * [FaceLIVE](https://www.facelive.org)
@@ -396,7 +396,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 ### [↑](#contents) Google+
 
 * [CircleCount](http://www.circlecount.com)
-* [Google Plus Search](http://googleplussearch.chromefans.org)
+* [Google Plus Search](https://googleplussearch.chromefans.org)
 * [PlusFeed](http://plusfeed.frosas.net)
 
 ### [↑](#contents) Instagram
@@ -634,7 +634,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [EDGAR Online](http://www.edgar-online.com)
 * [Europages](http://www.europages.co.uk)
 * [European Business Register](http://www.ebr.org)
-* [Ezilon](http://www.ezilon.com)
+* [Ezilon](https://www.ezilon.com)
 * [Factiva](https://global.factiva.com)
 * [FindtheCompany](http://www.findthecompany.com)
 * [Glassdoor](https://www.glassdoor.com)
@@ -642,10 +642,11 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [globalEdge](http://globaledge.msu.edu)
 * [GuideStar](http://www.guidestar.org)
 * [Hoovers](http://www.hoovers.com)
-* [Inc. 5000](http://www.inc.com/inc5000)
+* [Inc. 5000](https://www.inc.com/inc5000)
 * [InstantLogoSearch](http://instantlogosearch.com)
 * [iSpionage](https://www.ispionage.com)
-* [Knowledge guide to international company registration](http://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
+* [Jasmine Directory](https://www.jasminedirectory.com)
+* [Knowledge guide to international company registration](https://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
 * [Linkedin](https://www.linkedin.com)
 * [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
 * [MarketVisual](http://www.marketvisual.com)
@@ -695,14 +696,14 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 
 ## [↑](#contents) Q&A Sites
 
-* [Answers.com](http://www.answers.com)
-* [Ask](http://www.ask.com)
+* [Answers.com](https://www.answers.com)
+* [Ask](https://www.ask.com)
 * [ChaCha](http://www.chacha.com)
-* [eHow](http://www.ehow.com)
-* [Quora](http://www.quora.com)
-* [StackExchange](http://stackexchange.com)
+* [eHow](https://www.ehow.com)
+* [Quora](https://www.quora.com)
+* [StackExchange](https://stackexchange.com)
 * [Wiselike](https://wiselike.com)
-* [Yahoo Answers](http://answers.yahoo.com)
+* [Yahoo Answers](https://answers.yahoo.com)
 
 ## [↑](#contents) Domain and IP Research
 
@@ -742,8 +743,8 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Kloth](http://www.kloth.net/services)
 * [NetworkTools](http://network-tools.com)
 * [Majestic](https://majestic.com)
-* [MaxMind](https://www.maxmind.com)
-* [MXToolbox](http://origin.mxtoolbox.com) - MX record lookup tool.
+* [MaxMind](https://www.maxmind.com/en/home)
+* [MXToolbox](https://origin.mxtoolbox.com) - MX record lookup tool.
 * [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot)
 * [OpenLinkProfiler](http://www.openlinkprofiler.org/ratelimit/domain.com)
 * [Open Site Explorer](https://moz.com/researchtools/ose)

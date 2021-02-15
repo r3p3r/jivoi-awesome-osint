@@ -371,6 +371,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Twitter Search Tools](https://inteltechniques.com/intel/OSINT/twitter.html)
 * [TWUBS Twitter Chat](http://twubs.com/twitter-chats)
 * [Schedule Warble](https://warble.co)
+* [TheHerdLocker](http://theherdlocker.com)
 
 ### [↑](#contents) Facebook
 

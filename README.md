@@ -575,6 +575,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Toofr](https://www.toofr.com)
 * [Verify Email](http://verify-email.org)
 * [VoilaNorbert](https://www.voilanorbert.com)
+* [WhiteIntel] (https://whiteintel.io)
 
 ## [↑](#contents) Phone Number Research
 * [Twilio](https://www.twilio.com/lookup) - Look up a phone numbers carrier type, location, etc.

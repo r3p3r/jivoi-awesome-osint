@@ -1903,6 +1903,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Binfire](https://www.binfire.com)
 * [Breeze](https://www.breeze.pm)
 * [Canvanizer](https://canvanizer.com)
+* [Casserole Pro](https://www.casserole.pro)
 * [Casual](https://casual.pm)
 * [Cardboardit](https://cardboardit.com)
 * [Cardsmith](http://cardsmith.co)

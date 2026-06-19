@@ -1090,6 +1090,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Modest Maps](http://modestmaps.com)
 * [NGA GEOINT](https://github.com/ngageoint)
 * [OpenLayers](http://openlayers.org)
+* [Phantom Tide](https://phantom.labs.jamessawyer.co.uk/)
 * [Polymaps](http://polymaps.org)
 * [Perry Castaneda Library](https://www.lib.utexas.edu/maps)
 * [Open Street Map](http://www.openstreetmap.org)

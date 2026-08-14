@@ -371,6 +371,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Twitter Search Tools](https://inteltechniques.com/intel/OSINT/twitter.html)
 * [TWUBS Twitter Chat](http://twubs.com/twitter-chats)
 * [Schedule Warble](https://warble.co)
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### [↑](#contents) Facebook
 
